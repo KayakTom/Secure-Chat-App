@@ -15,7 +15,7 @@ function ChatBox(){
 
 function ChatMessage(){
     return(
-        <p></p>
+        <p>message</p>
     );
 
 }
